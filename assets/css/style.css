@@ -19,6 +19,9 @@ body {
 footer {
     text-align: center;
     font-size: 50%;
+    color: #ffffff;
+    background-color: #777777;
+    padding: 10px;
 }
 
 .headContainer {
@@ -65,8 +68,8 @@ footer {
     margin: auto;
     padding: 20px;
     background-color: #ffffff;
-    border: #777777;
-    border-width: 10px;
+    /* border: #777777;
+    border-width: 0 10px 0 10px; */
 }
 
 #bioPic {
