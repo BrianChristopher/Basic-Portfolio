@@ -127,3 +127,7 @@ a:active {
     z-index: 10;
 
 }
+
+/* Form Styling */
+.formField {
+    width: 100%;
