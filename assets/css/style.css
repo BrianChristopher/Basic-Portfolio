@@ -79,6 +79,10 @@ a:active {
 .mainContainer {
     padding: 20px 0px 50px 0px;
     background-image: url("../images/spiration-light.png");
+    border-style: solid;
+    border-color: #4aaaa5;
+    border-right-width: 0;
+    border-left-width: 0;
 }
 
 .mainContent {
@@ -110,4 +114,16 @@ a:active {
     margin: 0 40px 40px 0;
     float: left;
     position: relative;
+}
+.galleryLabel {
+    width: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0 15px 0;
+    position: absolute;
+    bottom: 20px;
+    z-index: 10;
+
 }
